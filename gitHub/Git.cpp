@@ -66,5 +66,6 @@ int main()
 		std::cout << c[i] << " ";
 	}
 	std::cout << "\n";
+	return 0;
 
 }
